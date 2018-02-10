@@ -254,4 +254,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-splash
